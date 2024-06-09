@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Kaissar Mouelhi</h1>
 
-![](https://komarev.com/ghpvc/?username=cesarcode-init&label=Views&color=E86A92)
+![](https://komarev.com/ghpvc/?username=kmdebug&label=Views&color=E86A92)
 
 ### Languages & Tools
 
@@ -37,15 +37,15 @@
 
 #### Account
 
-<a href="https://github.com/kmdebug"><img src="https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true" alt="cesarcode-init's GitHub stats" /></a>
+<a href="https://github.com/kmdebug"><img src="https://github-readme-stats.vercel.app/api?username=kmdebug&theme=dracula&hide_border=true" alt="kmdebug's GitHub stats" /></a>
 
 #### Most Used Languages
 
-<a href="https://github.com/kmdebug" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true" alt="Top Languages" /></a>
+<a href="https://github.com/kmdebug" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdebug&theme=dracula&hide_border=true" alt="Top Languages" /></a>
 
 #### Streak
 
-<a href="https://github.com/kmdebug"><img src="http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/kmdebug"><img src="http://github-readme-streak-stats.herokuapp.com?user=kmdebug&theme=dracula&hide_border=true" /></a>
 
 ### Socials
 
