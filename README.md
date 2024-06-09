@@ -37,24 +37,20 @@
 
 #### Account
 
-<a href="http://www.github.com/cesarcode-init"><img src="https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true" alt="cesarcode-init's GitHub stats" /></a>
+<a href="https://github.com/kmdebug"><img src="https://github-readme-stats.vercel.app/api?username=cesarcode-init&theme=dracula&hide_border=true" alt="cesarcode-init's GitHub stats" /></a>
 
 #### Most Used Languages
 
-<a href="https://github.com/cesarcode-init" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true" alt="Top Languages" /></a>
+<a href="https://github.com/kmdebug" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcode-init&theme=dracula&hide_border=true" alt="Top Languages" /></a>
 
 #### Streak
 
-<a href="http://www.github.com/cesarcode-init"><img src="http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true" /></a>
-
-<!-- #### Commits
-
-<a href="http://www.github.com/cesarcode-init"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cesarcode-init&theme=react&hide_border=true" alt="GitHub Commits Graph" /></a> -->
+<a href="https://github.com/kmdebug"><img src="http://github-readme-streak-stats.herokuapp.com?user=cesarcode-init&theme=dracula&hide_border=true" /></a>
 
 ### Socials
 
 <p align="left"> 
- <a href="https://www.github.com/cesarcode-init" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /></a> •
+ <a href="https://github.com/kmdebug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /></a> •
  <a href="https://www.linkedin.com/in/kaissar-mouelhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
 </p>
 
